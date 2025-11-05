@@ -68,9 +68,9 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "배재대학교",
+      degree: "소프트웨어공학부",
+      dateRange: "2021 - 수료",
       achievements: [
         "Graduated Magna Cum Laude with 3.8 GPA",
         "Dean's List all semesters",
@@ -78,9 +78,9 @@ export const siteConfig = {
       ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      school: "초격차 백엔드 부트캠프",
+      degree: "넥스트러너스",
+      dateRange: "2025",
       achievements: [
         "Completed 500+ hours of coursework",
         "Built 10+ portfolio projects",
