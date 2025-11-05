@@ -13,11 +13,11 @@ export const siteConfig = {
   skills: ["Python", "Django", "Flask", "PostgreSQL", "AWS", "Docker"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "향수 추천 웹사이트",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "개인 취향을 반영한 향수 추천 및 구매 서비스 제공",
+      link: "https://github.com/oz-main-10-team1",
+      skills: ["Django", "DRF", "Python", "PosgreSQL", "Simple JWT", "Celery", "Redis", "Pandas", "Numpy", "Scikit-learn", "Sentence Transformers", "Clova Studio"],
     },
     {
       name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
