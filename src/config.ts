@@ -27,11 +27,11 @@ export const siteConfig = {
       skills: ["Django (DRF)", "PostgreSQL", "Redis", "Celery", "Docker", "AWS EC2", "S3", "RDS", "GitHub Actions", "Poetry", "Docker Compose"],
     },
     {
-      name: "ExtensionKit",
+      name: "이미지 분석을 통한 유사 의류 추천 연구",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "유사 이미지 기반 의류 추천 시스템으로 객체 탐지 모델인 YOLOv5 모델과 VGG16 네트워크를 통해 상의와 하의를 구분하여 각 이미지의 특징을 추출하고 추천을 위해 유사도 측정을 통해 상의(하의)를 대상으로 어울리는 하의(상의)들을 찾아내어 최적의 조합을 도출",
+      link: "https://share.google/GDYVH9b966PZ8Qt1I",
+      skills: ["Python", "YOLOv5", "Roboflow", "VGG16", "OpenCV", "TensorFlow", "PyTorch"],
     },
   ],
   experience: [
