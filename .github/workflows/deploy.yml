@@ -2,7 +2,7 @@ name: Deploy Astro to GitHub Pages
 
 on:
   push:
-    branches: [ main ]  # 기본 브랜치명에 맞게 수정 (main / master 등)
+    branches: [ master ]  # 기본 브랜치명에 맞게 수정 (main / master 등)
 
 permissions:
   contents: read
