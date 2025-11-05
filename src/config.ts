@@ -78,8 +78,8 @@ export const siteConfig = {
       ],
     },
     {
-      school: "초격차 백엔드 부트캠프",
-      degree: "넥스트러너스",
+      school: "넥스트러너스",
+      degree: "초격차 백엔드 부트캠프",
       dateRange: "2025",
       achievements: [
         "Completed 500+ hours of coursework",
