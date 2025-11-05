@@ -20,11 +20,11 @@ export const siteConfig = {
       skills: ["Django", "DRF", "Python", "PosgreSQL", "Simple JWT", "Celery", "Redis", "Pandas", "Numpy", "Scikit-learn", "Sentence Transformers", "Clova Studio"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "교육 LMS 사이트",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "익스턴십 형태로 진행되는 통합 교육 플랫폼 ", "유저 관리 도메인을 전담하여 회원가입부터 수강신청, 프로필 관리 회원 탈퇴 및 복구 까지의 전체 사용자 흐름을 백엔드에서 구현하고 팀장으로서 전체 팀원 일정 조율",
+      link: "https://github.com/OZ-Coding-School/oz_externship_be_01",
+      skills: ["Django (DRF)", "PostgreSQL", "Redis", "Celery", "Docker", "AWS EC2", "S3", "RDS", "GitHub Actions", "Poetry", "Docker Compose"],
     },
     {
       name: "ExtensionKit",
