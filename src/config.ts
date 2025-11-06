@@ -56,9 +56,19 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
+      company: "AWS 해커톤 JEM",
+      title: "AWS",
+      dateRange: "2024.06.13",
+      bullets: [
+        "Developed responsive web applications for 20+ clients",
+        "Improved site performance scores by 35% on average",
+        "Introduced modern JavaScript frameworks to legacy codebases",
+      ],
+    },
+    {
+      company: "제 7회 K-디지털 트레이닝 해커톤",
+      title: "KDT",
+      dateRange: "2025.06.09 - 2025.07.23 ",
       bullets: [
         "Developed responsive web applications for 20+ clients",
         "Improved site performance scores by 35% on average",
