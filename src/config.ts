@@ -35,6 +35,16 @@ export const siteConfig = {
     },
   ],
   experience: [
+     {
+      company: "배재대학교",
+      title: "제4회 배재대학교 AI·SW 아이디어 해커톤 대회",
+      dateRange: "2024.05.11 - 2024.05.12",
+      bullets: [
+        "최우수상",
+        "Reduced API response times by 40% through optimization",
+        "Mentored team of 5 junior developers",
+      ],
+    },
     {
       company: "Dacon",
       title: "SW중심대학 디지털 경진대회_SW와 생성 AI의 만남 : AI 부문 - 생성 AI의 가짜(Fake) 음성 검출 및 탐지",
