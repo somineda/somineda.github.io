@@ -66,8 +66,8 @@ export const siteConfig = {
       ],
     },
     {
-      company: "제 7회 K-디지털 트레이닝 해커톤",
-      title: "KDT",
+      company: "KDT",
+      title: "제 7회 K-디지털 트레이닝 해커톤",
       dateRange: "2025.06.09 - 2025.07.23 ",
       bullets: [
         "Developed responsive web applications for 20+ clients",
