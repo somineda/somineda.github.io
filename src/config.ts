@@ -36,9 +36,9 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "SW중심대학 디지털 경진대회_SW와 생성 AI의 만남 : AI 부문 - 생성 AI의 가짜(Fake) 음성 검출 및 탐지",
+      title: "Dacon",
+      dateRange: "2024.07.01  - 2024.07.19",
       bullets: [
         "Led development of microservices architecture serving 1M+ users",
         "Reduced API response times by 40% through optimization",
@@ -46,9 +46,9 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "이미지 분석을 통한 유사 의류 추천 연구",
+      title: "ACK 2024 학술발표대회 ",
+      dateRange: "2024.10.31  - 2024.11.02",
       bullets: [
         "Built and launched MVP product from scratch using React and Node.js",
         "Implemented CI/CD pipeline reducing deployment time by 60%",
