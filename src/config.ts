@@ -60,9 +60,9 @@ export const siteConfig = {
       title: "이미지 분석을 통한 유사 의류 추천 연구",
       dateRange: "2024.10.31  - 2024.11.02",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
+        "의류 이미지를 YOLOv5를 이용해 상의/하의로 크롭, 색상 및 질감 모델 학습을 위한 데이터 정제",
+        "CNN 질감 모델 학습 및 생성",
+        "색상 및 질감 매핑, 해시 테이블 생성 입력값과 동일한 전신이미지 탐색",
       ],
     },
     {
