@@ -46,8 +46,8 @@ export const siteConfig = {
       ],
     },
     {
-      company: "이미지 분석을 통한 유사 의류 추천 연구",
-      title: "ACK 2024 학술발표대회 ",
+      company: "ACK 2024 학술발표대회",
+      title: "이미지 분석을 통한 유사 의류 추천 연구",
       dateRange: "2024.10.31  - 2024.11.02",
       bullets: [
         "Built and launched MVP product from scratch using React and Node.js",
