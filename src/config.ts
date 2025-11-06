@@ -40,9 +40,9 @@ export const siteConfig = {
       title: "제4회 배재대학교 AI·SW 아이디어 해커톤 대회",
       dateRange: "2024.05.11 - 2024.05.12",
       bullets: [
-        "최우수상",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "최우수상 수상",
+        "아이디어 내용: ",
+        "LLM, TTS, Deep Voice를 활용한 독거노인 케어 콜 서비스 어플리케이션",
       ],
     },
     {
