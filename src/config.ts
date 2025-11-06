@@ -56,8 +56,8 @@ export const siteConfig = {
       ],
     },
     {
-      company: "AWS 해커톤 JEM",
-      title: "AWS",
+      company: "AWS",
+      title: "AWS 해커톤 JEM",
       dateRange: "2024.06.13",
       bullets: [
         "Developed responsive web applications for 20+ clients",
