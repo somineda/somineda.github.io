@@ -72,7 +72,7 @@ export const siteConfig = {
       degree: "소프트웨어공학부 소프트웨어학",
       dateRange: "2021 - 수료",
       achievements: [
-        "IOT", "빅데이터","모바일응용SW","트랙",
+        "IOT, 빅데이터, 모바일응용SW 트랙",
       ],
     },
     {
