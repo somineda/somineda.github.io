@@ -36,8 +36,8 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "SW중심대학 디지털 경진대회_SW와 생성 AI의 만남 : AI 부문 - 생성 AI의 가짜(Fake) 음성 검출 및 탐지",
-      title: "Dacon",
+      company: "Dacon",
+      title: "SW중심대학 디지털 경진대회_SW와 생성 AI의 만남 : AI 부문 - 생성 AI의 가짜(Fake) 음성 검출 및 탐지",
       dateRange: "2024.07.01  - 2024.07.19",
       bullets: [
         "Led development of microservices architecture serving 1M+ users",
