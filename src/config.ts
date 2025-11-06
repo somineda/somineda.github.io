@@ -69,12 +69,10 @@ export const siteConfig = {
   education: [
     {
       school: "배재대학교",
-      degree: "소프트웨어공학부",
+      degree: "소프트웨어공학부 소프트웨어학",
       dateRange: "2021 - 수료",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "IOT", "빅데이터","모바일응용SW","트랙",
       ],
     },
     {
