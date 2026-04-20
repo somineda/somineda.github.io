@@ -9,7 +9,7 @@ export const siteConfig = {
     linkedin: "https://velog.io/@sommnie/posts",
   },
   aboutMe:
-    "향수 추천 서비스에서 Sentence Transformers와 pgvector로 의미 기반 벡터 검색 백엔드를 구축하며 AI 모델의 출력을 안정적으로 서빙하는 서버 개발에 기술적 흥미를 느꼈습니다. VGG16 기반 의류 추천 연구로 시작된 추천 시스템에 대한 관심은, Django와 PostgreSQL 환경에서 쿼리 최적화와 Redis 캐싱으로 성능을 개선하는 백엔드 실무 경험으로 이어졌습니다. 비교적 작은 규모의 환경에서 측정 가능한 개선을 만들어 본 경험을 바탕으로, 대규모 트래픽 위에서 AI 기술 적용과 성능 최적화를 동시에 다루는 환경에서 제 역량을 확장하고자 합니다. Python 서버 사이드 개발, FastAPI 비동기 서버, Docker 컨테이너 배포, 임베딩 기반 추천 백엔드 구축 경험으로 AI 백엔드 개발자로 성장해 가고 있습니다. 향수 추천 서비스에서 Sentence Transformers와 pgvector로 의미 기반 벡터 검색 백엔드를 구축하며, AI 모델의 출력을 안정적으로 서빙하는 서버 개발에 기술적 흥미를 느꼈습니다. VGG16 기반 의류 추천 연구로 시작된 추천 시스템에 대한 관심은, Django와 PostgreSQL 환경에서 쿼리 최적화와 Redis 캐싱으로 성능을 개선하는 백엔드 실무 경험으로 이어졌습니다. 비교적 작은 규모의 환경에서 측정 가능한 개선을 만들어 본 경험을 바탕으로, 대규모 트래픽 위에서 AI 기술 적용과 성능 최적화를 동시에 다루는 환경에서 제 역량을 확장하고자 합니다. Python 서버 사이드 개발, FastAPI 비동기 서버, Docker 컨테이너 배포, 임베딩 기반 추천 백엔드 구축 경험으로 AI 백엔드 개발자로 성장해 가고 있습니다.",
+    "향수 추천 서비스에서 Sentence Transformers와 pgvector로 의미 기반 벡터 검색 백엔드를 구축하며, AI 모델의 출력을 안정적으로 서빙하는 서버 개발에 기술적 흥미를 느꼈습니다. Django·PostgreSQL 환경의 쿼리 최적화와 Redis 캐싱 경험을 바탕으로, 대규모 트래픽 위에서 AI 적용과 성능 최적화를 동시에 다루는 환경에서 AI 백엔드 개발자로 성장하고자 합니다.",
   skills: ["Python", "Django", "DRF", "FastAPI", "Flask", "PostgreSQL", "pgvector", "Redis", "AWS", "Docker", "GitHub Actions", "Sentence Transformers"],
   projects: [
     {
@@ -27,10 +27,10 @@ export const siteConfig = {
       skills: ["Next.js", "Django", "DRF", "Celery", "Redis", "PostgreSQL"],
     },
     {
-      name: "교육 LMS 사이트 (oz_externship_be_07)",
+      name: "교육 LMS 사이트 (oz_externship_be_06)",
       description:
         "익스턴십 형태로 진행되는 통합 교육 플랫폼 유저 관리 도메인을 전담하여 회원가입부터 수강신청, 프로필 관리, 회원 탈퇴 및 복구까지의 전체 사용자 흐름을 백엔드에서 구현. 전체 팀원 일정 조율을 담당했으며, 조교 역할을 겸하여 프로젝트 전반의 PR 코드리뷰를 수행하고 컨벤션·테스트·성능 관점에서 피드백을 제공",
-      link: "https://github.com/OZ-Coding-School/oz_externship_be_07",
+      link: "https://github.com/OZ-Coding-School/oz_externship_be_06",
       skills: ["Django (DRF)", "PostgreSQL", "Redis", "Celery", "Docker", "AWS EC2", "S3", "RDS", "GitHub Actions", "Poetry", "Docker Compose"],
     },
     {
